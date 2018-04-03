@@ -1,5 +1,6 @@
 ## Dimer
-Dimer is a react-native chatbot that directs hurricane survivors to their nearest location for shelter, food, and resources. 
+Dimer is a react-native chatbot that directs hurricane survivors to their nearest location for shelter, food, and resources.
+Please feel free to make a pull request if you desire to contribute.
 
 ## Setup
 
